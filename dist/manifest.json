@@ -1,0 +1,23 @@
+{
+	"name": "Sorte na Loteria",
+	"short_name": "Sorte na Loteria",
+	"description": "Gere número randômicos para mega da virada!",
+	"theme_color": "#2866b1",
+	"background_color": "#2866b1",
+	"display": "standalone",
+	"scope": "/",
+	"start_url": "/",
+	"icons": [
+	  {
+		"src": "icon-192x192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+	  },
+	  {
+		"src": "icon-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	  }
+	]
+  }
+  
