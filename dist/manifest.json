@@ -5,8 +5,8 @@
 	"theme_color": "#2866b1",
 	"background_color": "#2866b1",
 	"display": "standalone",
-	"scope": "/",
-	"start_url": "/",
+	"scope": "/lottery-lucky/dist/",
+	"start_url": "/lottery-lucky/dist/",
 	"icons": [
 	  {
 		"src": "icon-192x192.png",
