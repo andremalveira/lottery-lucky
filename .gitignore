@@ -25,4 +25,4 @@ dist-ssr
 #custom
 src
 public
-./index.html
+index.html
